@@ -4,7 +4,7 @@ function App() {
   return (
     <div className="App">
       <header className="App-header">
-        <img src="./Coming_Soon.gif" className="App-logo" alt="logo" />
+        <img src="./coming_soon.gif" className="App-logo" alt="logo" />
       </header>
     </div>
   );
