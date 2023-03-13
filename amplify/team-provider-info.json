@@ -1,0 +1,15 @@
+{
+  "staging": {
+    "awscloudformation": {
+      "AuthRoleName": "amplify-makerwebsite-staging-134307-authRole",
+      "UnauthRoleArn": "arn:aws:iam::066206368793:role/amplify-makerwebsite-staging-134307-unauthRole",
+      "AuthRoleArn": "arn:aws:iam::066206368793:role/amplify-makerwebsite-staging-134307-authRole",
+      "Region": "ap-southeast-2",
+      "DeploymentBucketName": "amplify-makerwebsite-staging-134307-deployment",
+      "UnauthRoleName": "amplify-makerwebsite-staging-134307-unauthRole",
+      "StackName": "amplify-makerwebsite-staging-134307",
+      "StackId": "arn:aws:cloudformation:ap-southeast-2:066206368793:stack/amplify-makerwebsite-staging-134307/fcf315e0-c1a4-11ed-9892-0a0680ae74f4",
+      "AmplifyAppId": "d1a5mnn79ljeg"
+    }
+  }
+}
